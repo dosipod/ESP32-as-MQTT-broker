@@ -4,4 +4,4 @@ Learn how to use ESP32 as a MQTT broker for small number of devices and small nu
 
 Watch the video on youtube :
 
-[![ESP32 as MQTT broker](https://i9.ytimg.com/vi/scOqgQTHKho/maxresdefault.jpg?v=66d2e64b&sqp=CPzey7YG&rs=AOn4CLCPc93WLU4v2-rTFliP7_Bj7MNb0A)](https://www.youtube.com/watch?v=scOqgQTHKho "ESP32 as MQTT broker")
+[![ESP32 as MQTT broker](https://github.com/HighVoltages/ESP32-as-MQTT-broker/blob/main/ESP32%20as%20MQTT%20broker%20picoMQTT.jpg?raw=true)](https://www.youtube.com/watch?v=scOqgQTHKho "ESP32 as MQTT broker")
