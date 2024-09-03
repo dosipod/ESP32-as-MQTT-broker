@@ -1,5 +1,5 @@
-# ESP32-as-MQTT-broker
-Learn how to use ESP32 as a MQTT broker for small number of devices and small number of messages using PicoMQTT library.
+# ESP32 as MQTT-broker using PicoMQTT
+Learn how to use ESP32 as a MQTT broker for small number of devices and small number of messages using [PicoMQTT Library] (https://github.com/mlesniew/PicoMQTT) by @mlesniew.
 
 
 Watch the video on youtube :
